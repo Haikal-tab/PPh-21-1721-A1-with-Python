@@ -278,7 +278,6 @@ print(f"Pajak Terutang per Bulan: Rp{result:,.0f} \n")
 print(f"Selesai \n")
 
 print("#ayobayarpajak!")
-print("CREATED BY: MUHAMMAD HAIKAL MUTHAHHARI")
 
 v = input("Selesai")
 
